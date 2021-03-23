@@ -1,0 +1,2 @@
+# BashTest
+Testing BASH
